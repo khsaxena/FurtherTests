@@ -2,5 +2,4 @@
 ## further further testing 
 
 # Fed up of testing
-#hfshdfsfnvklvnkld
-# hshdfcslefjkldfj
+# Github and Jenkins sucks
